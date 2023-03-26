@@ -220,3 +220,59 @@ body {
 .raaange {
   display: inline;
 }
+.education-cont {
+  margin-top: 55px;
+}
+.progress {
+  display: inline-block;
+  background: #595959;
+  border-radius: 13px;
+  height: 12px;
+  width: 100px;
+  padding: 3px;
+  margin-left: 60px;
+}
+
+.progress:after {
+  content: '';
+  display:block;
+  background: #ff6b08;
+  width:20%;
+  height: 100%;
+  border-radius: 9px;
+}
+
+.html:after{
+  width:80%;
+}
+
+.css:after{
+  width:70%;
+}
+
+.git:after{
+  width:40%;
+}
+
+.php:after{
+  width:30%;
+}
+
+.js:after{
+  width:70%;
+}
+
+.nodejs:after{
+  width:30%;
+}
+
+.java:after{
+  width:20%;
+}
+
+.python:after{
+  width:50%;
+}
+.tech-skills-cont .progress{
+  float:right;
+}
