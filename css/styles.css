@@ -279,6 +279,10 @@ body {
   width:30%;
 }
 
+.sql:after{
+  width:30%;
+}
+
 .tech-skills-cont .progress{
   float:right;
 }
