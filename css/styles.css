@@ -145,6 +145,12 @@ body {
   line-height: 24px;
   margin-bottom: -10px;
 }
+.about-my-projects-title {
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
 .projects-link {
   color: #595959;
   font-family: Montserrat;
