@@ -274,6 +274,11 @@ body {
 .python:after{
   width:50%;
 }
+
+.cpp:after{
+  width:30%;
+}
+
 .tech-skills-cont .progress{
   float:right;
 }
