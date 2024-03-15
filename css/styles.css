@@ -21,7 +21,6 @@ body {
 }
 .tech-skills-object {
   color: #ff6b08;
-
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -88,7 +87,7 @@ body {
 .tech-skills-cont {
   margin-top: 54px;
   margin-left: 40px;
-  margin-right: 69px;
+  margin-right: 35px;
 }
 .tech-skills-text {
   color: #ffffff;
@@ -265,7 +264,7 @@ body {
 }
 
 .git:after{
-  width:40%;
+  width:50%;
 }
 
 .php:after{
@@ -273,27 +272,43 @@ body {
 }
 
 .js:after{
-  width:70%;
+  width:65%;
+}
+
+.react:after {
+  width:60%;
 }
 
 .nodejs:after{
-  width:30%;
+  width:25%;
 }
 
 .java:after{
   width:60%;
 }
 
+.spring_boot:after {
+  width:20%;
+}
+
 .python:after{
-  width:50%;
+  width:45%;
 }
 
 .cpp:after{
-  width:30%;
+  width:40%;
 }
 
 .sql:after{
-  width:30%;
+  width:40%;
+}
+
+.patterns:after{
+  width: 35%;
+}
+
+.testing:after {
+  width: 30%;
 }
 
 .tech-skills-cont .progress{
