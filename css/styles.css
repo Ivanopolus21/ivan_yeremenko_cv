@@ -63,7 +63,7 @@ body {
 .contacts-link {
   width: 166px;
   height: 39px;
-  opacity: 0.5;
+  /*opacity: 0.5;*/
   color: #ffffff;
   font-family: Montserrat;
   font-size: 14px;
